@@ -19,6 +19,7 @@ import org.json.JSONObject;
  *
  */
 // test
+//git commit -m "ajout commentaire"
 public class CallRestWebService {
 
 	public static final String endpoint = "http://ip-api.com/json";
